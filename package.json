@@ -29,7 +29,7 @@
     "@astrojs/netlify": "2.0.0",
     "@astrojs/node": "^5.1.0",
     "@astrojs/solid-js": "^2.1.0",
-    "@astrojs/vercel": "^3.2.1",
+    "@astrojs/vercel": "^8.0.2",
     "@solid-primitives/event-listener": "^2.2.8",
     "@solid-primitives/resize-observer": "^2.0.12",
     "@unocss/reset": "^0.50.6",
